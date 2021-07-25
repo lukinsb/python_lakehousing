@@ -1,0 +1,6 @@
+awswrangler==2.10.0
+beautifulsoup4==4.9.3
+boto3
+pandas
+requests==2.25.1
+s3fs==2021.7.0
